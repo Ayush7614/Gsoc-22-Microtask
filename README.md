@@ -17,24 +17,19 @@ These plugins are:
 
 Create a WordPress site. The site doesn't need to have real content but it should include dummy content (lorem ipsum...), navigation elements, and styling that complements the chaoss website.
 
-![Wordpress-Website](wordpress-website.png)
-
 ## Microtask 3:
 
 Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
 
-### Plugin 1 : BetterDocs
 
-![Better-Docs-Implementation](better-docs-implementation.png)
+### Plugin 1 : Echo Knowledge Base
 
-![Better-Docs-Documents](better-docs-documents.png)
+Knowledge Base Plugin for WordPress that's Easy and Powerful. Echo KB is the best Knowledge Base Plugin for WordPress. Here are the features that makes Echo KB the most powerful and user-friendly Documentation plugin in the market.
 
-![Better-Docs-articles](better-docs-article-specific.png)
+### Plugin 2 : BetterDocs
 
-### Plugin 2 : BasePress
+BetterDocs is an ultimate Knowledgebase solution that allows you to create an organized Documentations page and improve the user experience on your website. Since it helps visitors to easily find the article they are looking for, it will massively reduce the support requests on your website
 
-![Base-Press-Implementation](base-press-main-page.png)
+## Microtask 4:
 
-![Base-Press-Documents](base-press-sections.png)
-
-![Base-Press-articles](base-press-article.png)
+Create a report to present the results of your micro-tasks and your proposal for implementing a knowledgebase on the CHAOSS website. Document the plugins and describe your design choices. Include links to your example implementations on your WordPress site.
