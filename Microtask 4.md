@@ -44,12 +44,17 @@ BetterDocs is an ultimate Knowledgebase solution that allows you to create an or
 The Second Plugin that i have used that is BetterDocs Plugin and that is also free
 Some of the Output attached here that i implement
 
-### BetterDocs Plugin Output
+### BetterDocs Plugin Output 1
 
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%204.png" /></a>
 </p>
 
+### BetterDocs Plugin Output 2
+
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Better%20Docs%202.png" /></a>
+</p>
 
 ### BetterDocs Real UI
 
