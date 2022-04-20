@@ -11,6 +11,8 @@ Some of the Output attached here that i implement
 
 ### Echo Knowledge Base Plugin Output
 
+There are some output that is dummy in which things are not in proper way becasuse when i implement this things css was not reflected in the website after fixing all the css, fonts and color then it is reflected and output 4 is showing all the things.
+
 #### Output 1
 
 <p align="center">
