@@ -12,9 +12,20 @@ Some of the Output attached here that i implement
 ### Echo Knowledge Base Plugin Output
 
 <p align="center">
-    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%205.png" /></a>
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%201.png" /></a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%202.png" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%203.png" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%205.png" /></a>
+</p>
 
 #### BetterDocs Plugin
 
