@@ -11,17 +11,25 @@ Some of the Output attached here that i implement
 
 ### Echo Knowledge Base Plugin Output
 
+#### Output 1
+
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%201.png" /></a>
 </p>
+
+#### Output 2
 
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%202.png" /></a>
 </p>
 
+#### Output 3
+
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%203.png" /></a>
 </p>
+
+#### Output 4
 
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%205.png" /></a>
