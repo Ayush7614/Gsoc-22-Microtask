@@ -28,3 +28,10 @@ Some of the Output attached here that i implement
 <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%204.png" /></a>
 </p>
+
+
+### BetterDocs Real UI
+
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Better%20docs.png" /></a>
+</p>
