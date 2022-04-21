@@ -37,6 +37,14 @@ There are some output that is dummy in which things are not in proper way becasu
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output%205.png" /></a>
 </p>
 
+#### Output 5
+
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Gsoc-22-Microtask/blob/master/Output6.png" /></a>
+</p>
+
+
+
 #### BetterDocs Plugin
 
 BetterDocs is an ultimate Knowledgebase solution that allows you to create an organized Documentations page and improve the user experience on your website. Since it helps visitors to easily find the article they are looking for, it will massively reduce the support requests on your website
